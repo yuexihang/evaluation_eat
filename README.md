@@ -26,6 +26,8 @@ pip install face-alignment
    - Position your evaluation results in the `./result` folder.
 
 4. **Execution:**
+   
+   **Evaluate MEAD**
    - For instance, if your sampled (100) test results are located in the folder `./result/deepprompt_eam3d_all_final_313`, execute the following bash command:
      
     ```
@@ -36,3 +38,13 @@ pip install face-alignment
     ```
     bash test_psnr_ssim_sync_emoacc_985.sh deepprompt_eam3d_all_final_313_985 0
     ```
+    
+    **Evaluate LRW**
+   
+    - Different from MEAD, you need to download LRW dataset from [here](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html).
+    - We only use the testset of LRW.
+    - Extract the wav with ```python extract_wav.py```
+    - align and crop with PCAVS preprocess: ```python ```
+    - Put your test result into './result'
+    - Change the name in [test_psnr_ssim_sync_lrw_100.sh](https://github.com/yuangan/evaluation_eat/blob/main/test_psnr_ssim_sync_lrw_100.sh#L2). Run ```bash test_psnr_ssim_sync_lrw_100.sh``` to test LRW with 100 samples.
+    - Change the name in [test_psnr_ssim_sync_lrw_25k.sh](https://github.com/yuangan/evaluation_eat/blob/main/test_psnr_ssim_sync_lrw_25k.sh#L2). Run ```bash test_psnr_ssim_sync_lrw_25k.sh``` to test LRW with all 25k samples.
