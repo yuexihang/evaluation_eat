@@ -1,0 +1,109 @@
+../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/BRITAIN_00011.mp4 : 1.611240212377422 , 3.6064290981288893 , 4.28988245643604 , 1.2617301342458942 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CRIME_00038.mp4 : 1.217819060477893 , 1.1175303999853492 , 1.0671481930607247 , 0.31386711560609554 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/ARRESTED_00013.mp4 : 1.1767649043780175 , 1.871120014330585 , 1.5793693735617844 , 0.46452040398876016 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/HOSPITAL_00046.mp4 : 2.0998806172717237 , 1.7984997472988664 , 1.2212931231920416 , 0.3592038597623652 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/DETAILS_00007.mp4 : 1.1836316407338694 , 1.3494575503653508 , 1.3915197821099803 , 0.4092705241499942 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/GIVEN_00049.mp4 : 2.174923134564989 , 2.535462257470257 , 2.8714831280906243 , 0.8445538612031248 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/ENERGY_00049.mp4 : 1.1439629707721584 , 1.6688689550633231 , 1.1457900914364645 , 0.3369970857166072 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/COUPLE_00024.mp4 : 1.6752111048676304 , 2.0843609573580433 , 1.0106328358942451 , 0.2972449517336015 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/MAKES_00007.mp4 : 1.4776453684725208 , 2.7472312694758254 , 2.4543177769310867 , 0.7218581696856138 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/FIRST_00013.mp4 : 2.501279061523825 , 3.3349460111117337 , 1.3590511892432675 , 0.39972093801272573 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/ATTACKS_00021.mp4 : 1.2082460538760171 , 1.7741319487243428 , 1.4178333618103005 , 0.41700981229714723 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CONFLICT_00003.mp4 : 1.213331569607904 , 1.5853963650966338 , 1.1591569882397619 , 0.34092852595287115 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/COMPANY_00014.mp4 : 1.8971859013776997 , 2.199290348959519 , 1.6335607288089677 , 0.4804590378849905 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CLAIMS_00010.mp4 : 1.265650582805773 , 1.6062408761874016 , 1.3484191596385522 , 0.3965938704819271 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CRIME_00036.mp4 : 1.863675781356309 , 1.949452415903305 , 1.7719357031767975 , 0.5211575597578817 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/HUMAN_00036.mp4 : 1.6782691082649084 , 1.945370612941159 , 1.6357702918116845 , 0.4811089093563778 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/HIGHER_00019.mp4 : 1.806489361328653 , 2.0725277521719137 , 1.4753919469517136 , 0.4339388079269746 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/AGAINST_00012.mp4 : 2.1608631992632685 , 2.043601700729341 , 1.3988996629869013 , 0.41144107734908864 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/COULD_00003.mp4 : 1.280923866256779 , 1.7567782326000605 , 1.4445234312779804 , 0.4248598327288178 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CURRENT_00010.mp4 : 1.2933779610115645 , 1.9974607940529532 , 1.188511963773088 , 0.3495623422862024 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CENTRAL_00008.mp4 : 1.5447454633927113 , 1.8261654614946483 , 1.1820868754712512 , 0.3476726104327209 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CONCERNS_00049.mp4 : 1.4285672950569517 , 1.4150634101912334 , 1.0865797899686915 , 0.3195822911672622 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/JUDGE_00002.mp4 : 1.4394351858686523 , 1.5071819405033131 , 1.1849997336006122 , 0.34852933341194475 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/ATTACK_00044.mp4 : 1.3161671950602918 , 1.5891227960294563 , 1.2728381264752109 , 0.3743641548456503 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/BIGGEST_00006.mp4 : 1.3989898484236731 , 1.8178040567587674 , 1.457259500926309 , 0.42860573556656145 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/FOOTBALL_00024.mp4 : 1.4316176861960233 , 1.8276967558693733 , 1.643424807733869 , 0.483360237568785 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/AMONG_00036.mp4 : 1.745069886537551 , 1.7147143296178218 , 1.552586351622557 , 0.45664304459486976 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/ATTACK_00031.mp4 : 1.5915853259136383 , 1.9762735857788187 , 2.0015546326302514 , 0.5886925390088975 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/EARLY_00045.mp4 : 0.995227660360551 , 1.176622849918886 , 1.0296891969869626 , 0.3028497638196949 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/GROUND_00039.mp4 : 1.5757500255591461 , 1.6078587186014421 , 1.4529038764383777 , 0.42732466954069936 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/QUESTIONS_00002.mp4 : 1.8321406280159143 , 1.5375523309944223 , 1.5191089450683557 , 0.44679674854951634 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/DECIDED_00050.mp4 : 1.6239028155686541 , 1.7166453824381946 , 1.4190210832849952 , 0.4173591421426457 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/AREAS_00029.mp4 : 1.473578593847298 , 1.289329192085102 , 1.2853718971705086 , 0.37805055799132603 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/DEBATE_00036.mp4 : 1.7787999756745687 , 1.672373057201241 , 1.6059945838825387 , 0.4723513482007467 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/EMERGENCY_00032.mp4 : 2.052716358454942 , 1.9538153953435242 , 1.5077637622698996 , 0.4434599300793823 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/COMPANIES_00023.mp4 : 1.3511185551383038 , 1.9776247559865001 , 1.6632865032462862 , 0.4892019127194959 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CAMPAIGN_00020.mp4 : 1.7233910266139698 , 2.304783559572955 , 1.6259472336253187 , 0.478219774595682 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/HOSPITAL_00024.mp4 : 2.0620957781025493 , 1.8099860028216188 , 1.5711024716455977 , 0.4620889622487052 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/GIVING_00005.mp4 : 2.1377768308762555 , 3.217299094693651 , 2.6361304799678993 , 0.7753324941082057 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CLAIMS_00009.mp4 : 3.012103663053515 , 1.7823747011171545 , 1.1914395025046545 , 0.35042338308960425 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CLEAR_00041.mp4 : 1.260566772640947 , 2.9105501228377846 , 1.5056383238305184 , 0.4428348011266231 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CHANGES_00034.mp4 : 1.4963849980215536 , 2.4036700380365037 , 1.2424292384649145 , 0.36542036425438656 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/ACTUALLY_00006.mp4 : 1.3415217279264304 , 1.8248747329099957 , 1.627533873704593 , 0.47868643344252737 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/GREAT_00037.mp4 : 1.1499438712163084 , 1.9681627004595879 , 1.7581504901152982 , 0.5171030853280288 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/GAMES_00037.mp4 : 1.6560951853280081 , 1.4456289189625944 , 1.4603603865749284 , 0.4295177607573319 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/ECONOMIC_00023.mp4 : 1.6722617443348806 , 1.94444369665549 , 1.553162702433651 , 0.4568125595393091 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CAMERON_00046.mp4 : 1.3199956967573097 , 1.2757415846072446 , 1.4990629327437057 , 0.44090086257167815 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/HEART_00030.mp4 : 1.999244907631447 , 2.4370382375633777 , 2.7025628854678767 , 0.7948714369023168 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/EXPECTED_00025.mp4 : 1.7827197693179215 , 1.5269395971562776 , 1.5742223795127608 , 0.46300658220963553 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/ABOUT_00031.mp4 : 2.339284539544674 , 2.343540785501365 , 1.891967416316408 , 0.5564610047989436 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/ENGLAND_00033.mp4 : 1.7021042749032191 , 2.148962616871388 , 1.6534556008146752 , 0.4863104708278457 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/GLOBAL_00027.mp4 : 2.4914570170815047 , 2.0521598772008676 , 1.571448012145334 , 0.4621905918074512 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/MEASURES_00004.mp4 : 1.025564541585665 , 1.0491474806881214 , 1.2088254353073236 , 0.3555368927374481 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/EVENING_00050.mp4 : 1.4455368413938379 , 1.854173338518723 , 1.4581650340823527 , 0.42887206884775075 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/TONIGHT_00005.mp4 : 2.3256653960223206 , 2.1596362469452184 , 1.758432794549879 , 0.517186116044082 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/BEHIND_00005.mp4 : 1.230285834684825 , 1.3497286780655853 , 1.2781839353593625 , 0.3759364515762831 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/FIGHT_00015.mp4 : 1.1006787405342335 , 1.1600445520445093 , 1.3846952918685205 , 0.40726332113780017 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/MEASURES_00007.mp4 : 1.471079326763912 , 1.748976109122787 , 1.501391367754833 , 0.44158569639848033 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CANNOT_00004.mp4 : 1.4243396875186702 , 2.1568515805745307 , 2.238525954176303 , 0.6583899865224421 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/AGAINST_00021.mp4 : 1.9499047244869323 , 1.9115367091885156 , 1.6796457800651272 , 0.4940134647250374 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/TEMPERATURES_00002.mp4 : 1.1533830357899117 , 1.280200437388343 , 1.3572151415154938 , 0.39918092397514526 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/DESPITE_00043.mp4 : 1.3700046330718387 , 1.518294518989102 , 1.4380834024903821 , 0.4229657066148183 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/ASKING_00024.mp4 : 1.631444339326811 , 1.9655313259364986 , 1.7499000667197067 , 0.5146764902116785 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/EDITOR_00009.mp4 : 1.5123289814440204 , 1.5184975222044859 , 1.4536412638002505 , 0.4275415481765443 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CLOUD_00014.mp4 : 1.2602561949266828 , 1.258669478981007 , 1.4663603196808621 , 0.4312824469649595 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/BECAUSE_00021.mp4 : 2.923053304622794 , 3.5914959129133854 , 2.108800473790806 , 0.6202354334678841 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/BECAUSE_00046.mp4 : 2.679621869662497 , 2.625118623890337 , 1.6895955754949825 , 0.4969398751455831 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/SERIOUS_00005.mp4 : 1.2302038779866724 , 1.5074511141559794 , 1.2648397506580908 , 0.3720116913700267 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/COUNCIL_00027.mp4 : 1.2473196795051285 , 1.5245128749064363 , 1.3028123811348846 , 0.3831801120984955 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/DECISION_00038.mp4 : 1.5015316787360282 , 2.5284077431427576 , 1.6535944531658702 , 0.48635130975466767 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/GROWING_00027.mp4 : 2.4885533582129065 , 2.4493680046708337 , 1.662116752638668 , 0.48885786842313766 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CALLED_00039.mp4 : 1.948415209281623 , 2.1519694904004796 , 1.6695001792351265 , 0.49102946448091955 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/NEEDS_00008.mp4 : 1.4106835221721266 , 1.6566211830370063 , 1.3246367549839209 , 0.3895990455835061 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/AGREEMENT_00020.mp4 : 1.7833009226910403 , 2.1696465516622574 , 1.450132950835658 , 0.4265096914222523 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/WHERE_00005.mp4 : 1.48943096393606 , 1.9424004287108467 , 1.6530850464492037 , 0.48620148424976584 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CLOUD_00049.mp4 : 1.305321253795441 , 1.4989464799547614 , 1.266912012872544 , 0.3726211802566306 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/HAPPENING_00028.mp4 : 1.5464895050559406 , 1.4395522330565165 , 1.3868881405106182 , 0.40790827662077 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/HAPPEN_00029.mp4 : 2.566954744780264 , 2.476001303225675 , 1.8606185592490851 , 0.5472407527203191 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/HOUSE_00006.mp4 : 1.2713856615024295 , 1.3727041712119337 , 1.287473024572317 , 0.37866853663891675 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/PLACE_00006.mp4 : 1.3971747960280405 , 1.5970597994768456 , 1.5218565930025616 , 0.4476048802948711 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/ATTACK_00002.mp4 : 1.7414674737483937 , 1.9683733008997246 , 1.4658128069780645 , 0.43112141381707775 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CHALLENGE_00016.mp4 : 1.5232919896203272 , 2.3250006756358657 , 1.4285898694550516 , 0.42017349101619167 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/GOING_00018.mp4 : 1.4585504964069846 , 2.1447488457382065 , 1.3989431038286284 , 0.41145385406724366 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/PROVIDE_00008.mp4 : 1.4565704815488962 , 1.6318176943071627 , 1.3774754970453433 , 0.4051398520721598 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/TRUST_00007.mp4 : 1.4936865296972637 , 1.4879588099975538 , 1.6655431909990495 , 0.4898656444114851 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CHILD_00006.mp4 : 1.7755408409038818 , 1.6653804482724421 , 1.3321956707220588 , 0.39182225609472315 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CONFERENCE_00021.mp4 : 1.4680638940872979 , 2.638436568892615 , 1.3502255659850682 , 0.3971251664661965 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/BLACK_00010.mp4 : 1.5890902113074181 , 1.5025069088402614 , 1.403351409438071 , 0.4127504145406091 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/BUILDING_00021.mp4 : 1.5542392503758695 , 2.114831474197406 , 1.5941608245632635 , 0.468870830753901 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/STAFF_00007.mp4 : 2.106256474914642 , 3.5773494467118616 , 3.016173648481314 , 0.8871098966121513 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/CASES_00042.mp4 : 1.0663399699634717 , 1.2702572292602605 , 1.2764421658964429 , 0.37542416644013027 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/FORCE_00024.mp4 : 1.389832252043933 , 1.786781968835557 , 1.4644949767339173 , 0.4307338166864463 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/BETTER_00011.mp4 : 1.8943128742091877 , 1.9261525584924204 , 1.7994540984745884 , 0.5292512054337024 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/WEAPONS_00007.mp4 : 2.1180299323077545 , 3.0624114426808857 , 6.182573731400777 , 1.8184040386472875 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/COUPLE_00020.mp4 : 1.2212081612706653 , 1.9327324117881564 , 1.5221568998994752 , 0.4476932058527868 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/SCHOOL_00001.mp4 : 2.672436497715846 , 1.599817795968518 , 1.2895069716122993 , 0.3792667563565586 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/SPEAKING_00004.mp4 : 1.6073937437223875 , 1.5944612533804412 , 1.5194902473890854 , 0.44690889629090746 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/FORCE_00010.mp4 : 1.6945523189296676 , 2.4243955607629313 , 2.0831419043541812 , 0.6126887953982887 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/INDEPENDENT_00001.mp4 : 2.182614058589541 , 1.6446734723665344 , 1.3010303591150625 , 0.3826559879750184 
+ ../talking_head_testing/25fps_video/align_crop/deepprompt_eam3d_all_final_313_lrw_norm_wukong2_lrw_filter100/ACTUALLY_00011.mp4 : 1.6601431653689376 , 1.3577383684418136 , 1.499916130226949 , 0.4411518030079262 
+ vid num:100
+mouth valid vid num:100
+mouth lmd:1.6502026500525933
+face valid vid num:100
+face lmd:1.9216452772226944
+mouth valid lvd vid num:100
+mouth lvd:1.6184018229364026
+face valid lvd vid num:100
+face lvd:0.47600053615776566
