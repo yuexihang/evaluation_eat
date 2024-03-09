@@ -78,7 +78,7 @@ if __name__ == '__main__':
         vid_frames_pth = vid_frames_pth + '_cropped'
         wav_pth = '{}/{}.wav'.format( wav_rt, vname )
         
-        cmd = 'ffmpeg -loglevel panic -f image2 -i {} -i {} -r 25 {} -y'.format( vid_frames_pth + '/%d.jpg' ,  wav_pth , sav_pth )
+        cmd = 'ffmpeg -loglevel error -f image2 -i {} -i {} -r 25 {} -y'.format( vid_frames_pth + '/%d.jpg' ,  wav_pth , sav_pth )
         # gather_video_cmds.append(cmd)
         os.system(cmd)
         # os.system(cmd)
