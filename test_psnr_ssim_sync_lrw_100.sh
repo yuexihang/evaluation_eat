@@ -1,5 +1,5 @@
 #name='qvt_img_pca_sync_3_504_505_lrw_norm'
-name=deepprompt_eam3d_all_final_313_lrw_norm_wukong2
+name=deepprompt_eam3d_all_final_313_lrw_norm_wukong0
 device=0
 start_frame=0
 #rm -r "/data4/talking_head_testing/25fps_video/pcavs_crop/${name}_lrw_filter100"

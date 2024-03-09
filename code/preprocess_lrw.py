@@ -70,6 +70,7 @@ def get_parse():
     args = argparse.ArgumentParser('preprocess')
     args.add_argument('--save_name',type=str)
     args.add_argument('--fake_pth',type=str)
+    args.add_argument('--audio_path',type=str,default='../talking_head_testing/lipread_test_wav')
     args.add_argument('--name_mode',type=int,default=1)
     args.add_argument('--bool_only96',action='store_true')
     args.add_argument('--not_align_and_crop',action='store_true')
@@ -117,11 +118,14 @@ if __name__ == '__main__':
     out_crop_pth = '../talking_head_testing/25fps_video/align_crop/{}'.format(save_name)
     # out_crop_pth = '/data4/talking_head_testing/25fps_video_align224/align_crop/{}'.format(save_name)
     os.makedirs(out_crop_pth,exist_ok=True)
-    aud_rt = '../talking_head_testing/lipread_test_wav'
+    aud_rt = args.audio_path
     # aud_rt = '/data4/talking_head_testing/wavs_extract_from_newmead'
 
-    vlis = glob.glob(args.fake_pth)
-
+    if '/*.mp4' not in args.fake_pth:
+        vlis = glob.glob(args.fake_pth + '/*.mp4')
+    else :
+        vlis = glob.glob(args.fake_pth)
+    
     # vnames = []
     # for vid_pth in tqdm.tqdm(vlis):
     #     in_vid = vid_pth
