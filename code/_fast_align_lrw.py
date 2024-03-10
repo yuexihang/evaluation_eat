@@ -12,6 +12,7 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 frames_sav_rt = '../talking_head_testing/25fps_video/no_crop_frames'
 vid_sav_rt    = '../talking_head_testing/25fps_video/pcavs_crop'
 wav_rt        = '../talking_head_testing/lipread_test_wav'
+# wav_rt        = ' /data3/vox/vox/mead/result/lipread_test_wav'
 
 
 # CUDA_VISIBLE_DEVICES=0 python _fast_align_lrw.py --name LRW_vt2mel25_2_vox_head_555
