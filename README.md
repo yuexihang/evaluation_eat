@@ -45,6 +45,6 @@ pip install face-alignment
     - We only use the testset of LRW.
     - Extract the wav with ```python extract_wav.py```
     - Align and crop with PCAVS preprocess: ``` bash preprocess_lrw_gt.sh '[VIDEO_PATH]'```. Replace `[VIDEO_PATH]` with the folder path of dataset videos, eg. '/data/lipread_test_25/video'.
-    - Put your test result into './result'
+    - Put your test result of EAT into './result'
     - Change the name in [test_psnr_ssim_sync_lrw_100.sh](https://github.com/yuangan/evaluation_eat/blob/main/test_psnr_ssim_sync_lrw_100.sh#L2). Run ```bash test_psnr_ssim_sync_lrw_100.sh``` to test LRW with 100 samples.
     - Change the name in [test_psnr_ssim_sync_lrw_25k.sh](https://github.com/yuangan/evaluation_eat/blob/main/test_psnr_ssim_sync_lrw_25k.sh#L2). Run ```bash test_psnr_ssim_sync_lrw_25k.sh``` to test LRW with all 25k samples.
